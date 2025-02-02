@@ -21,8 +21,7 @@ Player Spritesheet
 
 
 Enemies and NPCs:
-Enemy graphic
-enemy-img.png
+![Enemy graphic](https://github.com/DSimoBCC24/CCL1_24/blob/main/enemy-img.png)
 
 #### ✍️ Reflection
 What went well:
