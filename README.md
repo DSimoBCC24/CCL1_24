@@ -2,7 +2,7 @@
 Biota: The Gut Protector is education run & collect game, that takes player on an journey inside the human gut. Biota, the hero, needs to restore the microbiome by exploring the gut, battling harmful bacterias, and gather nutrients while learning about gut health - digestive system.
 
 ## 🌐 Play the Game
-Click here to play the game!
+[Click here to play the game!](https://dsimobcc24.github.io/CCL1_24/)
 
 ### 📸 Screenshots
 Main Gameplay:
