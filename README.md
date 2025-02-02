@@ -6,21 +6,22 @@ Click here to play the game!
 
 ### 📸 Screenshots
 Main Gameplay:
-Gameplay Screenshot
+![Gameplay Screenshot](https://github.com/DSimoBCC24/CCL1_24/blob/main/game-screen-biota.jpg)
 
 
 Start screen:
-UI Screenshot
+![UI Screenshot](https://github.com/DSimoBCC24/CCL1_24/blob/main/start-screen-game-biota.jpg)
 
 
 ### 🎨 Spritesheets
 Below are the sprites used to create characters and objects in the game:
 
 Player Character:
-Player Spritesheet
+![Player Spritesheet](https://github.com/DSimoBCC24/CCL1_24/blob/main/player-biota-sprites.png)
 
 
-Enemies and NPCs:
+
+Enemy:
 ![Enemy graphic](https://github.com/DSimoBCC24/CCL1_24/blob/main/enemy-img.png)
 
 #### ✍️ Reflection
