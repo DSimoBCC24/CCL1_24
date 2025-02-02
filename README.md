@@ -22,6 +22,7 @@ Player Spritesheet
 
 Enemies and NPCs:
 Enemy graphic
+enemy-img.png
 
 #### ✍️ Reflection
 What went well:
